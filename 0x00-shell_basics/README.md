@@ -11,3 +11,4 @@ Description of scripts
 "9-firstdirdeletion" deletes the directory may_first_directory
 "10-back" moves from working directory to previous one
 "11-lists" creates long format list from 3 directories
+"12-file_type" tells the type of a file called imafile
