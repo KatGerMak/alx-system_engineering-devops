@@ -12,3 +12,4 @@ Description of scripts
 "10-back" moves from working directory to previous one
 "11-lists" creates long format list from 3 directories
 "12-file_type" tells the type of a file called imafile
+"13-symbolic_link" creates a symbolic link between /bin/ls and __ls__
