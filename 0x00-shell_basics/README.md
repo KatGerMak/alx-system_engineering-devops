@@ -6,4 +6,5 @@ Description of scripts
 "4-listmorefiles" lists all files including hidden ones, in long format
 "5-listfilesdigitonly' lists all files sorted numerically
 "6-firstdirectory" creates a directory in /tmp, called my_first_directory
-
+"7-movethatfile" moves file betty from /tmp to /tmp/my_first_directory
+"8-firstdelete" deletes the file betty
