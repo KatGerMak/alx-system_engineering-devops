@@ -10,3 +10,4 @@ Description of scripts
 "8-firstdelete" deletes the file betty
 "9-firstdirdeletion" deletes the directory may_first_directory
 "10-back" moves from working directory to previous one
+"11-lists" creates long format list from 3 directories
