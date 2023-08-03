@@ -13,3 +13,4 @@ Description of scripts
 "11-lists" creates long format list from 3 directories
 "12-file_type" tells the type of a file called imafile
 "13-symbolic_link" creates a symbolic link between /bin/ls and __ls__
+"14-copy_html" script that copies html files from working directory to parent directory

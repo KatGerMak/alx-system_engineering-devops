@@ -1,0 +1,3 @@
+#!/bin/bash
+cp -f --parents $(find . -name "*.html") ../
+
