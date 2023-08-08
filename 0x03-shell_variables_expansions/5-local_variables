@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(set | grep -E '^local|^env|^f' | sort)
+set
